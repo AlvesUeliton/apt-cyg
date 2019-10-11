@@ -65,7 +65,7 @@ Quick start
 
 apt-cyg is a simple script. To install:
 
-    lynx -source rawgit.com/transcode-open/apt-cyg/master/apt-cyg > apt-cyg
+    curl rawgit.com/transcode-open/apt-cyg/master/apt-cyg -O -L
     install apt-cyg /bin
 
 Example use of apt-cyg:
